@@ -1,0 +1,7 @@
+{
+  "Frontend Developer": ["HTML", "CSS", "JavaScript", "React", "Git", "Responsive Design", "TypeScript"],
+  "Backend Developer": ["Java", "Spring Boot", "SQL", "APIs", "Git", "Node.js", "Database Design"],
+  "Data Analyst": ["Excel", "SQL", "Python", "Dashboards", "Statistics", "Data Visualization", "Pandas"],
+  "Full Stack Developer": ["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB", "Git", "APIs"],
+  "DevOps Engineer": ["Linux", "Docker", "Kubernetes", "CI/CD", "AWS", "Git", "Scripting"]
+}

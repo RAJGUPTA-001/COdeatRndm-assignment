@@ -1,0 +1,87 @@
+{
+  "Frontend Developer": [
+    {
+      "phase": "Phase 1 (1-2 months): Fundamentals",
+      "skills": "HTML5, CSS3, JavaScript ES6+, Git basics, Responsive design principles",
+      "description": "Master the core web technologies and version control. Build 3-5 static websites to practice."
+    },
+    {
+      "phase": "Phase 2 (2-3 months): Modern Framework",
+      "skills": "React.js, Component architecture, State management, API integration, npm/yarn",
+      "description": "Learn React and build interactive applications. Create a portfolio project with real API integration."
+    },
+    {
+      "phase": "Phase 3 (1-2 months): Advanced & Production",
+      "skills": "TypeScript, Testing (Jest), Performance optimization, Deployment, Accessibility",
+      "description": "Focus on production-ready skills. Deploy projects, write tests, and optimize for performance."
+    }
+  ],
+  "Backend Developer": [
+    {
+      "phase": "Phase 1 (1-2 months): Java Foundations",
+      "skills": "Java basics, OOP principles, Data structures, Git version control",
+      "description": "Build strong programming fundamentals. Practice with coding challenges and small projects."
+    },
+    {
+      "phase": "Phase 2 (2-3 months): Web Development",
+      "skills": "Spring Boot, RESTful APIs, SQL & databases, Authentication, Error handling",
+      "description": "Learn backend frameworks and database management. Build a complete REST API with CRUD operations."
+    },
+    {
+      "phase": "Phase 3 (1-2 months): Production Skills",
+      "skills": "Deployment, System design basics, Microservices, Testing, Docker basics",
+      "description": "Prepare for production environments. Learn deployment, containerization, and scalability concepts."
+    }
+  ],
+  "Data Analyst": [
+    {
+      "phase": "Phase 1 (1-2 months): Data Fundamentals",
+      "skills": "Excel (advanced formulas, pivot tables), SQL basics, Statistics fundamentals, Data cleaning",
+      "description": "Master spreadsheet analysis and basic SQL. Work with real datasets to practice data cleaning."
+    },
+    {
+      "phase": "Phase 2 (2-3 months): Programming & Visualization",
+      "skills": "Python (Pandas, NumPy), Data visualization (Matplotlib, Seaborn), Dashboards (Tableau/Power BI)",
+      "description": "Learn Python for data analysis and create compelling visualizations. Build interactive dashboards."
+    },
+    {
+      "phase": "Phase 3 (1-2 months): Advanced Analytics",
+      "skills": "Advanced SQL, Statistical analysis, A/B testing, Business intelligence, Storytelling with data",
+      "description": "Focus on deriving insights and communicating findings. Complete end-to-end analysis projects."
+    }
+  ],
+  "Full Stack Developer": [
+    {
+      "phase": "Phase 1 (2-3 months): Frontend Mastery",
+      "skills": "HTML, CSS, JavaScript, React, Responsive design, Git",
+      "description": "Build solid frontend skills. Create multiple responsive web applications."
+    },
+    {
+      "phase": "Phase 2 (2-3 months): Backend Development",
+      "skills": "Node.js, Express, MongoDB/SQL, RESTful APIs, Authentication",
+      "description": "Learn server-side development and databases. Build full-stack applications with user authentication."
+    },
+    {
+      "phase": "Phase 3 (2 months): Integration & Deployment",
+      "skills": "Full-stack integration, Testing, CI/CD, Cloud deployment, System design",
+      "description": "Combine frontend and backend. Deploy full-stack applications and learn DevOps basics."
+    }
+  ],
+  "DevOps Engineer": [
+    {
+      "phase": "Phase 1 (1-2 months): Linux & Scripting",
+      "skills": "Linux fundamentals, Bash scripting, Git, Networking basics, Command-line tools",
+      "description": "Master the terminal and automation. Practice with Linux servers and write automation scripts."
+    },
+    {
+      "phase": "Phase 2 (2-3 months): Containers & Orchestration",
+      "skills": "Docker, Kubernetes, CI/CD pipelines, Jenkins/GitHub Actions, Infrastructure as Code",
+      "description": "Learn containerization and automation. Set up complete CI/CD pipelines for sample applications."
+    },
+    {
+      "phase": "Phase 3 (2 months): Cloud & Monitoring",
+      "skills": "AWS/Azure/GCP, Terraform, Monitoring (Prometheus, Grafana), Security best practices",
+      "description": "Master cloud platforms and observability. Deploy and monitor production-grade infrastructure."
+    }
+  ]
+}
