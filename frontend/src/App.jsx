@@ -1,6 +1,6 @@
 
 import { Route,Routes } from 'react-router';
-import Homepage from './pages/homepage';
+import Homepage from './pages/Homepage';
 import { analyzeSkillGap } from './api_service/getskill_gap';
 import { getCareerRoadmap } from './api_service/getroadmap';
 import { getLatestNews } from './api_service/getnews';
