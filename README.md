@@ -38,7 +38,7 @@ CORS
 
 
 File struct
-
+```
 career-guidance-platform/
 ├── backend/
 │   ├── controllers/
@@ -77,7 +77,7 @@ career-guidance-platform/
 ├── package.json 
 │
 └── README.md
-
+```
 🚀 Setup Instructions
 
 
