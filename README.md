@@ -1,6 +1,6 @@
 
 
-🎯 Features
+# 🎯 Features
 
 Career Goal Input - Select target role and add current skills
 
@@ -14,7 +14,7 @@ Combined Dashboard - Clean layout displaying all information
 
 LocalStorage Persistence - Saves user inputs and analysis 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend:
 
@@ -78,10 +78,11 @@ career-guidance-platform/
 │
 └── README.md
 ```
-🚀 Setup Instructions
+# 🚀 Setup Instructions
 
 
 Prerequisites
+
 Node.js
 
 .env in backend has 
@@ -101,6 +102,7 @@ for development
 
 
 Backend Setup
+
 Navigate to backend directory:
 
 ```bash
@@ -115,23 +117,26 @@ npm install
 
 Create .env file:
 
-text
+```text
 PORT=3000
 NODE_ENV=development
-
+```
 Start the server:
 
 ```bash
 npm start
 ```
+
 Server runs on: http://localhost:3000
 
 Frontend Setup
+
 Navigate to frontend directory:
 
 ```bash
 cd frontend
 ```
+
 Install dependencies:
 
 ```bash
@@ -146,8 +151,9 @@ npm start
 
 Frontend runs on: http://localhost:5173
 
-📡 API Endpoints
-1. Skill Gap Analysis
+# 📡 API Endpoints
+
+## 1. Skill Gap Analysis
 Endpoint: POST /api/getskill_gap
 
 Request:
@@ -171,7 +177,8 @@ Response:
 
 }
 ```
-2. Career Roadmap
+## 2. Career Roadmap
+ 
 Endpoint: POST /api/getroadmap
 
 Request:
@@ -198,7 +205,7 @@ Response:
 }
 ```
 
-3. Latest News
+## 3. Latest News
 Endpoint: GET /api/getnews
 
 Response:
@@ -224,27 +231,29 @@ Response:
 ```
 
 
-📝 Design Decisions
-Backend Architecture
+# 📝 Design Decisions
 
-Mock AI Logic: Predefined roadmaps simulate AI recommendations (as per requirements)
+## Backend Architecture
 
-
-
-Frontend Architecture
-Component-based: Reusable React components for maintainability
+ Mock AI Logic: Predefined roadmaps simulate AI recommendations (as per requirements)
 
 
 
-API Design
+## Frontend Architecture
+
+  Component-based: Reusable React components for maintainability
+
+
+
+### API Design
+
 RESTful conventions: POST for data submission
 
 Consistent responses: All endpoints return JSON 
 
 Validation: Input validation with clear error messages
 
-🔧 Assumptions Made
-No Database: Requirements stated "optional database", so JSON files are used
+ ###🔧 Assumptions Made
 
 Mock AI: Roadmap generation uses predefined data (not dynamic AI)
 
