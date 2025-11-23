@@ -253,7 +253,7 @@ Consistent responses: All endpoints return JSON
 
 Validation: Input validation with clear error messages
 
- ###🔧 Assumptions Made
+ ### 🔧 Assumptions Made
 
 Mock AI: Roadmap generation uses predefined data (not dynamic AI)
 
